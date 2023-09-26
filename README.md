@@ -1,5 +1,5 @@
 # ImageClassifierApplication
 Implement Image Classifier using Tensorflow with RockPaperScissors datasets
 
-#Credit
+# Credit
 Dicoding Teams 2023
